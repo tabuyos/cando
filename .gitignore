@@ -9,3 +9,10 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+
+# User Define
+auto-save-list
+elpa
+places
+recentf
