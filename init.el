@@ -263,3 +263,5 @@ The original function deletes trailing whitespace of the current line."
 (te/update-to-load-path (expand-file-name "emacs-lisp" user-emacs-directory))
 
 (require 'init-theme)
+
+(require 'init-org)
