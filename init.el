@@ -1,4 +1,5 @@
 ;; init config
+;; test
 
 (unless (bound-and-true-p package-user-dir)
   (defvar package-user-dir nil
